@@ -7,6 +7,9 @@ body{
       #E9D8BA 75%);
   background-size:100px 100px;
   }
- .card-img-top {
-   height: 500px;
- }
+
+  .caption {
+    background-color: rgb(247, 220, 220);
+    padding: 2px;
+    text-align: center;
+  }
