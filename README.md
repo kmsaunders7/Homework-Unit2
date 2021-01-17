@@ -1,12 +1,16 @@
 
-# Profile- Employer Ready
+# Profile
 
-Link:
+## Preview
+
+![Image of Profile Home Page](assets\images\screenshot.JPG)
+
+## Link:
 https://github.com/kmsaunders7
 
-Technology:
+## Technology:
 -HTML, CSS, JavaScript
 
-Description:
+## Description:
 Updated contact information including LinkedIn and GitHub linked access. A page specifically for projects I have created and collaborated.
 
