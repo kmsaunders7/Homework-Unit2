@@ -1,9 +1,22 @@
 body {
     background-image: linear-gradient(to top, rgb(80, 79, 79), rgba(255, 255, 255, 0.918));
   }
+ 
+ img {
+   display: block;
+   max-width: 100%;
+ } 
 
-  .caption {
+.caption {
     background-color: rgb(247, 220, 220);
     padding: 2px;
     text-align: center;
+  }
+
+.nav-link {
+    color: rgb(80, 79, 79);
+  }
+
+  .profile {
+    box-shadow: 10px 10px 5px rgb(88, 87, 87);
   }
