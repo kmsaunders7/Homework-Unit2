@@ -1,5 +1,5 @@
 body {
-    background-image: linear-gradient(to top, rgb(80, 79, 79), rgba(255, 255, 255, 0.918));
+    background-image: linear-gradient(to top, rgb(75, 73, 73), rgba(255, 255, 255, 0.918));
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   }
  
@@ -35,14 +35,14 @@ body {
     text-align: center;
   }
  .card-text-code, .card-title-code {
-   background-color: rgb(76, 124, 37);
+   background-color: rgb(59, 107, 20);
    padding: 10px;
    border-radius: 2px;
 
  } 
 
 .nav-link {
-    color: rgb(80, 79, 79);
+    color: rgb(75, 73, 73);
   }
 
   .profile, .contact {
