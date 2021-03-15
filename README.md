@@ -1,9 +1,13 @@
 
-# Profile
+# Profile - Kristin Saunders
+
+## Description
+
+For future employment, a brief description of who I am. Link to project page that has cards of the README's associated with each project. 
 
 ## Preview
 
-![Image of Profile Home Page](assets\images\screenshot.JPG)
+![Image of Profile Home Page](assets/images/profilescreenshot.JPG) 
 
 ## Link:
 https://github.com/kmsaunders7
