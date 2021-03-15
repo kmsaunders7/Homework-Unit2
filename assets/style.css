@@ -25,6 +25,10 @@ body {
   margin: 10px
 }
 
+.carousel {
+  background-color: navy;
+}
+
 .section-title strong {
   display: block;
 }
@@ -33,6 +37,12 @@ body {
     padding: 2px;
     text-align: center;
   }
+ .card-text-code, .card-title-code {
+   background-color: rgb(76, 124, 37);
+   padding: 10px;
+   border-radius: 2px;
+
+ } 
 
 .nav-link {
     color: rgb(80, 79, 79);
