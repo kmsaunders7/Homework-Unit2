@@ -1,14 +1,32 @@
 body {
     background-image: linear-gradient(to top, rgb(80, 79, 79), rgba(255, 255, 255, 0.918));
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   }
  
  img {
    display: block;
    max-width: 100%;
- } 
+ }
+ 
+ 
 .card {
   margin: 10px;
   border-radius: 5px;
+}
+
+.where, .current, .going {
+  background-color:rgb(210, 219, 215)
+}
+
+.subtitle, .section-title-about {
+  background-color: rgb(120, 65, 134);
+  font-weight: bold;
+  border-radius: 4px;
+  margin: 10px
+}
+
+.section-title strong {
+  display: block;
 }
 .caption {
     background-color: rgb(247, 220, 220);
@@ -22,4 +40,5 @@ body {
 
   .profile, .contact {
     box-shadow: 10px 10px 5px rgb(88, 87, 87);
+    margin-right: 40px;
   }
